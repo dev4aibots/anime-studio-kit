@@ -1,0 +1,13 @@
+name: js_animation
+title: JavaScript animation (zero-asset canvas films)
+description: Make short animated films where every pixel is computed in JavaScript — no images, no assets. Storyboard-as-data methodology (BPM/SECTIONS/SHOTS/EVENTS), pure-function-of-time frames, deterministic seeded RNG, self-check loop (contact sheets, storyboard conformance, director pass), zero-asset audit, layout collision check. From iart-ai/javascript-animation-skills (MIT). Pairs with js-soundtrack. Pure code.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  status: active
+  needs_review: true
+  rationale: 'Installed 2026-10-15 from iart-ai/motion-skills (user: "use these as well"). Core methodology for our pure-code anime pipeline: storyboard-as-data, pure function of time, deterministic RNG, self-check loop. MIT.'
+  review_after: 2026-11-15T00:00:00+00:00

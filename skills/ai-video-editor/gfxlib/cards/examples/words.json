@@ -1,0 +1,8 @@
+{
+ "dur": 3.6,
+ "lines": [
+  {"text": "Your first card", "t": 0.3, "size": 150, "small": false, "accent": "first"},
+  {"text": "rendered on your own machine", "t": 1.1, "size": 84, "small": true, "accent": null}
+ ],
+ "ul": 0
+}

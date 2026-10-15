@@ -1,0 +1,22 @@
+{
+ "grok": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Grok_logo_without_text.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File%3AGrok_logo_without_text.svg",
+  "license": "Public domain"
+ },
+ "xai": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/XAI-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File%3AXAI-Logo.svg",
+  "license": "Public domain"
+ },
+ "deepseek": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File%3ADeepSeek-icon.svg",
+  "license": "MIT"
+ },
+ "microsoft": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMicrosoft_logo_%282012%29.svg",
+  "license": "Public domain"
+ }
+}

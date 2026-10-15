@@ -1,0 +1,9 @@
+{
+ "remove": [
+  [212, 230, "\"it took like 30 minutes\": the source says about 20, so it is cut (never corrected with words that were not said)"],
+  [541, 563, "an aside about a feature that was not tested"]
+ ],
+ "src_fix": [],
+ "src_keep": [],
+ "src_cut": []
+}

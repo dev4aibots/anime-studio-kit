@@ -1,0 +1,13 @@
+name: beat_sync_editing
+title: Beat sync editing
+description: Motion craft reference from iart-ai/motion-design-skills (MIT) — professional technique for our anime pipeline. Pure code.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  status: active
+  needs_review: true
+  rationale: 'Installed 2026-10-15 from iart-ai/motion-skills (user order). MIT.'
+  review_after: 2026-11-15T00:00:00+00:00

@@ -1,0 +1,601 @@
+{
+ "anthropic": {
+  "name": "Anthropic",
+  "file": "logos/anthropic.svg",
+  "says": [
+   "Anthropic"
+  ],
+  "color": "#F0EEE6",
+  "brand_hex": "#191919",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/anthropic.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "mishears": [
+   "Anthropix",
+   "Anthropics"
+  ]
+ },
+ "apple": {
+  "name": "Apple",
+  "file": "logos/apple.svg",
+  "says": [
+   "Apple"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/apple.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "claude": {
+  "name": "Claude",
+  "file": "logos/claude.svg",
+  "says": [
+   "Claude",
+   "Claude Code",
+   "Claude app",
+   "Haiku",
+   "Sonnet",
+   "Opus"
+  ],
+  "color": "#D97757",
+  "brand_hex": "#D97757",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/claude.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "mishears": [
+   "Cloth",
+   "Clod"
+  ]
+ },
+ "cursor": {
+  "name": "Cursor",
+  "file": "logos/cursor.svg",
+  "says": [
+   "Cursor"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/cursor.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "deepseek": {
+  "name": "DeepSeek",
+  "file": "logos/deepseek.svg",
+  "says": [
+   "DeepSeek"
+  ],
+  "color": "#4D6BFE",
+  "brand_hex": null,
+  "source": "https://commons.wikimedia.org/wiki/File%3ADeepSeek-icon.svg",
+  "license": "MIT (Wikimedia Commons; the mark is the brand's trademark)"
+ },
+ "discord": {
+  "name": "Discord",
+  "file": "logos/discord.svg",
+  "says": [
+   "Discord"
+  ],
+  "color": "#5865F2",
+  "brand_hex": "#5865F2",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/discord.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "elevenlabs": {
+  "name": "ElevenLabs",
+  "file": "logos/elevenlabs.svg",
+  "says": [
+   "ElevenLabs"
+  ],
+  "color": "#000000",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/elevenlabs.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "figma": {
+  "name": "Figma",
+  "file": "logos/figma.svg",
+  "says": [
+   "Figma"
+  ],
+  "color": "#F24E1E",
+  "brand_hex": "#F24E1E",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/figma.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "github": {
+  "name": "GitHub",
+  "file": "logos/github.svg",
+  "says": [
+   "GitHub"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#181717",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/github.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "githubcopilot": {
+  "name": "GitHub Copilot",
+  "file": "logos/githubcopilot.svg",
+  "says": [
+   "Copilot",
+   "GitHub Copilot"
+  ],
+  "color": "#000000",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/githubcopilot.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "gmail": {
+  "name": "Gmail",
+  "file": "logos/gmail.svg",
+  "says": [
+   "Gmail"
+  ],
+  "color": "#EA4335",
+  "brand_hex": "#EA4335",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/gmail.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "google": {
+  "name": "Google",
+  "file": "logos/google.svg",
+  "says": [
+   "Google"
+  ],
+  "color": "#4285F4",
+  "brand_hex": "#4285F4",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/google.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "googlecloud": {
+  "name": "Google Cloud",
+  "file": "logos/googlecloud.svg",
+  "says": [
+   "Google Cloud",
+   "Vertex"
+  ],
+  "color": "#4285F4",
+  "brand_hex": "#4285F4",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/googlecloud.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "googlegemini": {
+  "name": "Google Gemini",
+  "file": "logos/googlegemini.svg",
+  "says": [
+   "Gemini",
+   "Nano Banana"
+  ],
+  "color": "#8E75B2",
+  "brand_hex": "#8E75B2",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/googlegemini.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "mishears": [
+   "Gemini's"
+  ]
+ },
+ "grok": {
+  "name": "Grok",
+  "file": "logos/grok.svg",
+  "says": [
+   "Grok",
+   "Grok Bot"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": null,
+  "source": "https://commons.wikimedia.org/wiki/File%3AGrok_logo_without_text.svg",
+  "license": "Public domain (Wikimedia Commons; the mark is the brand's trademark)",
+  "mishears": [
+   "Grok's",
+   "Groc"
+  ]
+ },
+ "huggingface": {
+  "name": "Hugging Face",
+  "file": "logos/huggingface.svg",
+  "says": [
+   "Hugging Face"
+  ],
+  "color": "#FFD21E",
+  "brand_hex": "#FFD21E",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/huggingface.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "instagram": {
+  "name": "Instagram",
+  "file": "logos/instagram.svg",
+  "says": [
+   "Instagram"
+  ],
+  "color": "#FF0069",
+  "brand_hex": "#FF0069",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/instagram.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "make": {
+  "name": "Make",
+  "file": "logos/make.svg",
+  "says": [
+   "Make.com",
+   "make dot com"
+  ],
+  "color": "#6D00CC",
+  "brand_hex": "#6D00CC",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/make.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "meta": {
+  "name": "Meta",
+  "file": "logos/meta.svg",
+  "says": [
+   "Meta",
+   "Muse"
+  ],
+  "color": "#0467DF",
+  "brand_hex": "#0467DF",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/meta.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "microsoft": {
+  "name": "Microsoft",
+  "file": "logos/microsoft.svg",
+  "says": [
+   "Microsoft"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": null,
+  "source": "https://commons.wikimedia.org/wiki/File%3AMicrosoft_logo_%282012%29.svg",
+  "license": "Public domain (Wikimedia Commons; the mark is the brand's trademark)"
+ },
+ "mistralai": {
+  "name": "Mistral AI",
+  "file": "logos/mistralai.svg",
+  "says": [
+   "Mistral",
+   "Le Chonk",
+   "Mistral Large"
+  ],
+  "color": "#FA520F",
+  "brand_hex": "#FA520F",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/mistralai.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "mishears": [
+   "Mistral's"
+  ]
+ },
+ "n8n": {
+  "name": "n8n",
+  "file": "logos/n8n.svg",
+  "says": [
+   "n8n"
+  ],
+  "color": "#EA4B71",
+  "brand_hex": "#EA4B71",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/n8n.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "notion": {
+  "name": "Notion",
+  "file": "logos/notion.svg",
+  "says": [
+   "Notion"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/notion.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "nvidia": {
+  "name": "NVIDIA",
+  "file": "logos/nvidia.svg",
+  "says": [
+   "Nvidia"
+  ],
+  "color": "#76B900",
+  "brand_hex": "#76B900",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/nvidia.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "ollama": {
+  "name": "Ollama",
+  "file": "logos/ollama.svg",
+  "says": [
+   "Ollama"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/ollama.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "openai": {
+  "name": "OpenAI",
+  "file": "logos/openai.svg",
+  "says": [
+   "OpenAI",
+   "ChatGPT",
+   "GPT",
+   "Codex",
+   "Dots",
+   "Luna",
+   "Sol",
+   "Astra"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#412991",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/openai.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "mishears": [
+   "GBTCX",
+   "GP6",
+   "GPT6",
+   "Open AI"
+  ]
+ },
+ "openrouter": {
+  "name": "OpenRouter",
+  "file": "logos/openrouter.svg",
+  "says": [
+   "OpenRouter"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#94A3B8",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/openrouter.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "perplexity": {
+  "name": "Perplexity",
+  "file": "logos/perplexity.svg",
+  "says": [
+   "Perplexity"
+  ],
+  "color": "#1FB8CD",
+  "brand_hex": "#1FB8CD",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/perplexity.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "replit": {
+  "name": "Replit",
+  "file": "logos/replit.svg",
+  "says": [
+   "Replit"
+  ],
+  "color": "#F26207",
+  "brand_hex": "#F26207",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/replit.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "shopify": {
+  "name": "Shopify",
+  "file": "logos/shopify.svg",
+  "says": [
+   "Shopify"
+  ],
+  "color": "#7AB55C",
+  "brand_hex": "#7AB55C",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/shopify.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "slack": {
+  "name": "Slack",
+  "file": "logos/slack.svg",
+  "says": [
+   "Slack"
+  ],
+  "color": "#4A154B",
+  "brand_hex": "#4A154B",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/slack.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "stripe": {
+  "name": "Stripe",
+  "file": "logos/stripe.svg",
+  "says": [
+   "Stripe"
+  ],
+  "color": "#635BFF",
+  "brand_hex": "#635BFF",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/stripe.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "telegram": {
+  "name": "Telegram",
+  "file": "logos/telegram.svg",
+  "says": [
+   "Telegram"
+  ],
+  "color": "#26A5E4",
+  "brand_hex": "#26A5E4",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/telegram.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "tiktok": {
+  "name": "TikTok",
+  "file": "logos/tiktok.svg",
+  "says": [
+   "TikTok"
+  ],
+  "color": "#000000",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/tiktok.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "vercel": {
+  "name": "Vercel",
+  "file": "logos/vercel.svg",
+  "says": [
+   "Vercel"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/vercel.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "whatsapp": {
+  "name": "WhatsApp",
+  "file": "logos/whatsapp.svg",
+  "says": [
+   "WhatsApp"
+  ],
+  "color": "#25D366",
+  "brand_hex": "#25D366",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/whatsapp.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "windsurf": {
+  "name": "Windsurf",
+  "file": "logos/windsurf.svg",
+  "says": [
+   "Windsurf"
+  ],
+  "color": "#0B100F",
+  "brand_hex": "#0B100F",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/windsurf.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "x": {
+  "name": "X",
+  "file": "logos/x.svg",
+  "says": [
+   "X",
+   "Twitter"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/x.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "xai": {
+  "name": "xAI",
+  "file": "logos/xai.svg",
+  "says": [
+   "xAI"
+  ],
+  "color": "#FFFFFF",
+  "brand_hex": null,
+  "source": "https://commons.wikimedia.org/wiki/File%3AXAI-Logo.svg",
+  "license": "Public domain (Wikimedia Commons; the mark is the brand's trademark)"
+ },
+ "youtube": {
+  "name": "YouTube",
+  "file": "logos/youtube.svg",
+  "says": [
+   "YouTube"
+  ],
+  "color": "#FF0000",
+  "brand_hex": "#FF0000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/youtube.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "zapier": {
+  "name": "Zapier",
+  "file": "logos/zapier.svg",
+  "says": [
+   "Zapier"
+  ],
+  "color": "#FF4F00",
+  "brand_hex": "#FF4F00",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/zapier.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)"
+ },
+ "snowflake": {
+  "name": "Snowflake",
+  "says": [
+   "Snowflake"
+  ],
+  "color": "#29B5E8",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/snowflake.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "file": "logos/snowflake.svg",
+  "brand_hex": "#29B5E8"
+ },
+ "databricks": {
+  "name": "Databricks",
+  "says": [
+   "Databricks"
+  ],
+  "color": "#FF3621",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/databricks.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "file": "logos/databricks.svg",
+  "brand_hex": "#FF3621"
+ },
+ "salesforce": {
+  "name": "Salesforce",
+  "says": [
+   "Salesforce"
+  ],
+  "color": "#00A1E0",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/salesforce.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "file": "logos/salesforce.svg",
+  "brand_hex": "#00A1E0"
+ },
+ "googlebigquery": {
+  "name": "BigQuery",
+  "says": [
+   "BigQuery",
+   "Big Query"
+  ],
+  "color": "#669DF6",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/googlebigquery.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "file": "logos/googlebigquery.svg",
+  "brand_hex": "#669DF6"
+ },
+ "facebook": {
+  "name": "Facebook",
+  "says": [
+   "Facebook"
+  ],
+  "color": "#0866FF",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/facebook.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark: nominative use only)",
+  "file": "logos/facebook.svg",
+  "brand_hex": "#0866FF"
+ },
+ "hyperframes": {
+  "name": "HyperFrames",
+  "says": [
+   "HyperFrames",
+   "hyper frames"
+  ],
+  "color": "#2F6BFF",
+  "source": "https://github.com/heygen-com/hyperframes/blob/main/docs/logo/symbol-light.svg (white background rect removed)",
+  "license": "Apache-2.0 repository asset; the mark is HeyGen's: nominative use only",
+  "file": "logos/hyperframes.svg",
+  "brand_hex": "#2F6BFF"
+ },
+ "aftereffects": {
+  "name": "Adobe After Effects",
+  "file": "logos/aftereffects.svg",
+  "says": [
+   "After Effects"
+  ],
+  "color": "#9999FF",
+  "brand_hex": "#00005B",
+  "source": "https://commons.wikimedia.org/wiki/File:Adobe_After_Effects_CC_icon.svg (fills inlined from its stylesheet)",
+  "license": "Public domain on Wikimedia Commons (simple text logo); the mark is Adobe's trademark: nominative use only"
+ },
+ "threejs": {
+  "name": "three.js",
+  "file": "logos/threejs.svg",
+  "says": [
+   "three.js",
+   "three js",
+   "3JS"
+  ],
+  "color": "#000000",
+  "brand_hex": "#000000",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/threedotjs.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the project's)"
+ },
+ "upwork": {
+  "name": "Upwork",
+  "file": "logos/upwork.svg",
+  "says": [
+   "Upwork"
+  ],
+  "color": "#6FDA44",
+  "brand_hex": "#6FDA44",
+  "source": "https://cdn.jsdelivr.net/npm/simple-icons@15.22.0/icons/upwork.svg",
+  "license": "Simple Icons (CC0 icon data; the mark is the brand's trademark)"
+ }
+}

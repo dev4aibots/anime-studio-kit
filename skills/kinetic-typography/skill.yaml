@@ -1,0 +1,13 @@
+name: kinetic_typography
+title: Kinetic typography
+description: Kinetic text animation done right — timing, easing, readability, on-brand type. For animated subtitles, title sequences, and word-driven motion graphics. From iart-ai/kinetic-typography-skills (MIT). Pure code.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  status: active
+  needs_review: true
+  rationale: 'Installed 2026-10-15 from iart-ai/motion-skills (user order). Upgrades our kinetic subtitles and title cards. MIT.'
+  review_after: 2026-11-15T00:00:00+00:00

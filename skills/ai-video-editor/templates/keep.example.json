@@ -1,0 +1,10 @@
+{
+ "keep": [
+  [3.42, 9.80, "Claude Code edits my videos now, end to end.", "s"],
+  [14.10, 21.55, "Here is how it works, and what it costs.", "s"],
+  [31.02, 33.40, "The first job is the transcriber,", "s"],
+  [36.88, 41.20, "and it writes down every word with its time.", "m"],
+  [47.15, 55.90, "The second job is the editor: it cuts the mistakes and the long pauses.", "s", "", {"pause": 0.6}],
+  [61.30, 64.05, "And that is the whole cut.", "s", "both"]
+ ]
+}

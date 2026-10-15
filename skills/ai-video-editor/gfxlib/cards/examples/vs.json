@@ -1,0 +1,8 @@
+{
+ "dur": 5.0,
+ "head": {"text": "Which one keeps up", "accent": "keeps up", "t": 0.2},
+ "left": {"tag": "Editing by hand", "tagW": 560, "lines": [{"text": "one video a week", "t": 0.9}]},
+ "right": {"tag": "The editor", "tagW": 460, "lines": [{"text": "one video a day", "t": 1.8}]},
+ "win": "right",
+ "t_win": 2.6
+}

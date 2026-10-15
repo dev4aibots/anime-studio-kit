@@ -1,0 +1,13 @@
+name: js_soundtrack
+title: Code-synthesized soundtrack (Web Audio)
+description: Write a film's score in code (Web Audio API, window.SCORE), rendered offline to WAV and muxed. Tempo maps per scene, cuts land on downbeats, harmony-marked edits (no startle >+6dB), sync-check tool. From iart-ai/javascript-animation-skills (MIT). Pure code — no AI music, no samples.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  status: active
+  needs_review: true
+  rationale: 'Installed 2026-10-15 from iart-ai/motion-skills (user order). Gives our pipeline code-synthesized scores with beat-accurate cut sync. MIT.'
+  review_after: 2026-11-15T00:00:00+00:00

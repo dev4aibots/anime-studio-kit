@@ -1,0 +1,13 @@
+name: ai_video_editor
+title: AI video editor (motion graphics + 3D engine)
+description: End-to-end video editing skill from the user's Drive pack: transcribe, cut on waveform, direct graphics, build motion graphics with HyperFrames + three.js (8-sample motion blur, true depth of field, 3D camera rig, themed cards, 3D logos/devices), mix sound, QC, publish sheet. Engine (engine/kit.js) and gfxlib are directly reusable for anime motion-graphics shots. Pure code, no generative AI.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  status: active
+  needs_review: true
+  rationale: 'Installed 2026-10-15 from the user-supplied Drive pack (1GdiFpPsh-CeLDA5oBs8363uH1kNpxGdX). Highest-value parts for our JS anime pipeline: engine/ (three.js camera + 8-sample motion blur + DOF on HyperFrames — same renderer we use), gfxlib/gfx.js (themed motion-graphics cards), tools/qc.py + sheet.py (QC contact sheets), tools/beats.py (beat grids for music-synced motion). Licenses verified in THIRD-PARTY.md: ISC/MIT/Apache-2.0/OFL, GSAP standard no-charge. See INTEGRATION.md for the anime-pipeline wiring.'
+  review_after: 2026-11-15T00:00:00+00:00

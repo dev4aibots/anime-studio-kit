@@ -1,0 +1,13 @@
+name: gsap_core
+title: Gsap core (official GSAP)
+description: Official GSAP skill from greensock/gsap-skills (MIT, 16.4k stars) — correct GSAP usage for our HyperFrames animation pipeline.
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  status: active
+  needs_review: true
+  rationale: 'Installed 2026-10-15 from greensock/gsap-skills (user: "https://github.com/greensock/gsap-skills"). GSAP drives every animation in our pipeline. MIT.'
+  review_after: 2026-11-15T00:00:00+00:00
