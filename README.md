@@ -18,7 +18,7 @@ That's it. `install.sh` checks prerequisites, clones everything, installs all np
 | `js-animation` | Zero-asset canvas films: storyboard-as-data, pure-function-of-time frames, deterministic RNG, self-check loop |
 | `js-soundtrack` | Code-synthesized scores (Web Audio), beat-accurate cuts, sync-check |
 | `kinetic-typography` | Kinetic subtitles and title cards |
-| `gsap-timeline` / `gsap-core` / `gsap-performance` / `gsap-plugins` | Official GSAP skills (16.4k★) — timelines, best practices, render performance |
+| `gsap-timeline` / `gsap-core` / `gsap-performance` / `gsap-plugins` | Official GSAP skills (16.4k stars) — timelines, best practices, render performance |
 | `animation-principles` / `beat-sync-editing` / `shot-composition` | Professional motion craft |
 | `ai-video-editor` | three.js 3D engine: 8-sample motion blur, true depth of field, camera rig (slam/whip/punch/rack focus) on HyperFrames |
 
